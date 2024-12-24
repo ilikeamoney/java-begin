@@ -1,4 +1,4 @@
-package condition;
+package condition.ex;
 
 public class CondEx7 {
     public static void main(String[] args) {
